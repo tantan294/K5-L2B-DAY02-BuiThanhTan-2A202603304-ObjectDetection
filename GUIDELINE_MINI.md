@@ -6,7 +6,7 @@
 
 | Lớp | Định nghĩa của bạn | Ví dụ/điểm phân biệt |
 | --- | --- | --- |
-| `car` | | |
+| `car` | Xe con: sedan, hatchback, SUV, taxi, xe bán tải | |
 | `truck` | | |
 | `bus` | | |
 | `van` | | |
